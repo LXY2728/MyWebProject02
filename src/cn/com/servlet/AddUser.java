@@ -11,7 +11,7 @@ import java.io.IOException;
  * @Classname ${NAME}
  * @Description TODO
  * @Date 2020/2/9 11:49
- * @Created by LXYPC  testtesttest
+ * @Created by LXYPC
  */
 @WebServlet(name = "AddUser",urlPatterns = "/addUser")
 public class AddUser extends HttpServlet {
